@@ -1,0 +1,16 @@
+{
+  "name": "@nomopo/call-bind",
+  "version": "2.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./callBound": "./callBound.js",
+    "./package.json": "./package.json"
+  },
+  "type": "commonjs",
+  "author": {
+    "name": "Dan Rumney",
+    "email": "dancrumb@gmail.com"
+  }
+}

@@ -1,0 +1,1 @@
+module.exports =  (buf) => buf.byteLength;

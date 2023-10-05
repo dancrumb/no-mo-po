@@ -1,0 +1,15 @@
+{
+  "name": "no-mo-po",
+  "license": "MIT",
+  "author": {
+    "name": "Dan Rumney",
+    "email": "dancrumb@gmail.com"
+  },
+  "scripts": {
+    "publish": "yarn workspaces foreach --from packages npm publish --tolerate-republish "
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.6.4"
+}

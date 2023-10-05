@@ -1,0 +1,11 @@
+{
+  "name": "@nomopo/object.hasown",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "commonjs",
+  "author": {
+    "name": "Dan Rumney",
+    "email": "dancrumb@gmail.com"
+  }
+}

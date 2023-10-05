@@ -1,0 +1,1 @@
+module.exports =  (f) => Function.prototype.call.bind(f)
